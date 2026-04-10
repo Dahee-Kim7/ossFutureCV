@@ -8,7 +8,7 @@
 
 ![ID photo](/image/IDphoto.jpg)
 
-[GitHub profile]<https://github.com/Dahee-Kim7> 
+[GitHub profile]<https://github.com/Dahee-Kim7>  
 [Email]daheekim71@gmail.com
 
 > *"화면 너머의 구조까지 이해하는 개발자가 더 좋은 사용자 경험을 만든다."*
